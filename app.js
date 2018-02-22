@@ -1,3 +1,4 @@
+//=======================================
 //using browser console
 
 /*
@@ -33,6 +34,8 @@ console.time('hello');
 console.timeEnd('hello');
 */
 
+
+//==========================================
 //var, let, const
 //var & let works same in most cases, except scope
 var name = 'Oshan Silva';// strings can be double or single quotes
@@ -75,3 +78,5 @@ numbers.push(8);
 numbers.pop();
 console.log(numbers);
 
+
+//==========================================
