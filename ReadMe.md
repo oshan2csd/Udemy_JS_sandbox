@@ -13,3 +13,6 @@
     * reference - access from memory location (heap)
          - Arrays/object literals/functions/dates/anytthing else...
     * JS is dynamically typed (no need to specify types)
+
+4. Type Conversions
+    * 
