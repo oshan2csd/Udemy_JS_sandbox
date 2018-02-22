@@ -9,7 +9,7 @@
 
 3. Data types
     * primimtve (value type) - access from the variable 
-        strings/numbers(all int,decimal, floats)/boolean/null/undefined(if a variable   is unassigned)/ Symbols
+         - strings/numbers(all int,decimal, floats)/boolean/null/undefined(if a variable   is unassigned)/ Symbols
     * reference - access from memory location (heap)
-        Arrays/object literals/functions/dates/anytthing else...
+         - Arrays/object literals/functions/dates/anytthing else...
     * JS is dynamically typed (no need to specify types)
