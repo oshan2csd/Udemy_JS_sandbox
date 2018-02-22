@@ -1,4 +1,4 @@
-##JavaScript Fundementals
+# JavaScript Fundementals
 part1: console functions
   using console.log() to monitor values
   time() function
