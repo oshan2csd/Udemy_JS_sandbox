@@ -193,3 +193,4 @@ console.log(val);
 //includes()
 val = str.includes('how');
 console.log(val);
+
