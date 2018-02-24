@@ -25,3 +25,7 @@
 6. Strings
     * slice() - same as split, but substring(-3) will gives substring from the end
     * split, replace, includes (return true or false)
+
+7. Template Literals (Strings) - See app_templpateLiterals.js
+    * Much easier way to create strings with html
+    * Functions, eexpressions, condditionals can be included
