@@ -15,4 +15,13 @@
     * JS is dynamically typed (no need to specify types)
 
 4. Type Conversions
-    * 
+    * Converting to String using String() and toString()
+    * Converting to Number using Number()
+
+5. Numbers & Math Object
+    * Basic Math functions
+        - round,sqrt,ceil,floor,random etc..
+
+6. Strings
+    * slice() - same as split, but substring(-3) will gives substring from the end
+    * split, replace, includes (return true or false)
